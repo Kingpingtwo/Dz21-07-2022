@@ -1,0 +1,56 @@
+.ttt{
+    width: 290px;
+}
+.ccc{
+    border-radius: 10px;
+    background-color: #0000fe;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 290px;
+    margin: auto;
+
+}
+  .too{
+    padding: 24px 15px 24px 15px;
+  }
+.sss{
+    text-align: center;
+    margin: 0;
+    font-family: Poppins;
+    text-transform: uppercase;
+    letter-spacing: 5px;
+    color: #fbf2ff; 
+    margin-bottom: 18px;
+    font-size: 11px;
+}
+
+.card-price{
+
+    text-align: center;
+    margin: 0;
+    font-family: Poppins;
+    color: #fefffd; 
+    font-size: 20px;
+    margin-bottom: 18px;
+
+}
+
+.cards-d{
+    text-align: center;
+    margin: 0;
+    font-family: Poppins;
+    font-size: 14px;
+color: #cffeff;
+margin-bottom: 15px;
+}
+.a{
+    border-radius: 10px;
+    display: block;
+    font-family: Poppins;
+    background-color: #000000;
+    text-decoration: none;
+    color: #fefbf3;
+    text-align: center;
+    text-transform: uppercase;
+    padding: 15px 0 15px 0;
+
+}
